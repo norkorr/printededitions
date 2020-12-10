@@ -2,7 +2,7 @@
 
 ## Letters
 
-List of 165 editions of correspondences and letters in print held by the National Library of Norway. The URNs of the editions (digitised by NB) were extracted together with bibliographic metadata (author, year, publisher, additional information) using a script created by [@yoonsen](https://github.com/Yoonsen) for the NB-Lab. The script can be found in a Jupyter Notebook, located in (/src/parse_html_beautifulsoup.ipynb).
+List of 165 editions of correspondences and letters in print held by the National Library of Norway. The URNs of the editions (digitised by NB) were extracted together with bibliographic metadata (author, year, publisher, additional information) using a script created by [@yoonsen](https://github.com/Yoonsen) for the NB-Lab. The script can be found in a [Jupyter Notebook](parse_html_beautifulsoup.ipynb).
 
 ## Content
 

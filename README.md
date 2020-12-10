@@ -7,14 +7,23 @@ List of 165 editions of correspondences and letters in print held by the Nationa
 ## Content
 
 printededitions/
+
 |-- data/
+
     |-- list_urn_letter-editions_nb.csv
+
     |-- list_urn_letter-editions_nb_splitted.csv
+
     |-- README.txt
+
 |-- src/
+
     |-- parse_html_beautifulsoup.ipynb
+
 |-- README.md
+
 |-- CONTRIBUTING.md
+
 |-- LICENSE.txt
 
 ## Creator
